@@ -8,8 +8,6 @@ public class Main {
         Window window = new Window();
         window.showWindow();
 
-//        System.out.println(MyJDBC.exist("username"));
-//        System.out.println(MyJDBC.validate("username12345"));
 
 
 
